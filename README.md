@@ -1,6 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Aliraza%20Kadri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Specialist%20%7C%20n8n%20%C2%B7%20Make%20%C2%B7%20AI%20Agents&descAlignY=60&descSize=16" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2CD3E1&center=true&vCenter=true&width=650&height=30&lines=Building+AI-powered+business+automations;n8n+%7C+Make.com+%7C+Telegram+%2F+Gemini+API;Open+to+Remote+Freelance+%26+Full-Time+Work" alt="Typing SVG" />
+
+# ALIRAZA KADRI
+
+### AI Automation Specialist | n8n · Make · AI Agents
+
+Building AI-powered business automations — n8n, Make.com, Telegram & Gemini API
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aliraza2022&color=2CD3E1&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
@@ -13,15 +17,8 @@
 
 ### 👋 About Me
 
-I help businesses **save time and scale** by building AI-powered automations —
-connecting apps, APIs, and LLMs into one seamless workflow. From lead capture
-bots to full multi-step AI agents, I design systems that run 24/7 without
-manual work.
-
-- 🔭 Currently building: AI-powered lead & follow-up automations for small businesses
-- 🌱 Currently learning: Advanced AI agent orchestration (multi-agent workflows)
-- 🌍 Based in India — working with clients worldwide, remote-first
-- 💬 Ask me about: n8n, Make.com, OpenAI/Claude API integration, workflow automation
+I help businesses save time and scale by building AI-powered automations —
+connecting apps and AI models into workflows that run without manual work.
 
 ---
 
@@ -78,8 +75,6 @@ Multi-step Gmail follow-up flows that run without any manual work.
 </tr>
 </table>
 
-<div align="center"><sub>📌 Click into each repo below for full case study + demo video</sub></div>
-
 ---
 
 ### 📊 GitHub Stats
@@ -103,7 +98,5 @@ Multi-step Gmail follow-up flows that run without any manual work.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliraza2022)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>

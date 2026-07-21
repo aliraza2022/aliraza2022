@@ -36,11 +36,10 @@ manual work.
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
 
@@ -52,16 +51,16 @@ manual work.
 <tr>
 <td width="50%">
 
-**🤖 AI Lead Qualification Bot**
-Auto-qualifies WhatsApp/Telegram leads using GPT before human follow-up, cutting manual screening time drastically.
-`n8n` `OpenAI API` `Telegram API`
+**🤖 Telegram Lead-Qualification Bot**
+Auto-qualifies incoming leads via Telegram using a free AI model, logs qualified leads automatically.
+`n8n` `Gemini API` `Telegram Bot API`
 
 </td>
 <td width="50%">
 
-**🔄 CRM Auto-Sync**
-Form submissions instantly synced to CRM + Slack notification — zero manual data entry.
-`n8n` `Airtable` `Slack API`
+**📋 Form-to-Sheet Auto Logger**
+Form submissions instantly logged into Google Sheets + notification email sent — zero manual data entry.
+`n8n` `Google Sheets` `Gmail API`
 
 </td>
 </tr>
@@ -69,14 +68,14 @@ Form submissions instantly synced to CRM + Slack notification — zero manual da
 <td width="50%">
 
 **💬 AI FAQ Auto-Responder**
-Instantly answers customer queries using Claude, cutting response time from hours to seconds.
-`n8n` `Claude API`
+Instantly answers common customer queries using a free-tier AI model, cutting response time from hours to seconds.
+`n8n` `Gemini API`
 
 </td>
 <td width="50%">
 
 **📧 Automated Follow-Up Sequences**
-Multi-step email/WhatsApp follow-up flows that run without any manual work.
+Multi-step Gmail follow-up flows that run without any manual work.
 `Make.com` `Gmail API`
 
 </td>

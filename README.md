@@ -93,8 +93,8 @@ Multi-step email/WhatsApp follow-up flows that run without any manual work.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliraza2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza2022&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliraza2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" />
+<img height="165" src="https://streak-stats.demolab.com/?user=aliraza2022&theme=tokyonight&hide_border=true" />
 
 </div>
 

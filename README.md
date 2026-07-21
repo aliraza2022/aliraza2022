@@ -1,16 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Aliraza%20Kadri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Specialist%20%7C%20n8n%20%C2%B7%20Make%20%C2%B7%20AI%20Agents&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=2CD3E1&center=true&vCenter=true&width=650&lines=Building+AI-powered+business+automations;n8n+%7C+Make.com+%7C+OpenAI+%2F+Claude+API;Open+to+Remote+Freelance+%26+Full-Time+Work" alt="Typing SVG" />
-
-<br/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aliraza%20Kadri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Specialist%20%7C%20n8n%20%C2%B7%20Make%20%C2%B7%20AI%20Agents&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2CD3E1&center=true&vCenter=true&width=650&height=30&lines=Building+AI-powered+business+automations;n8n+%7C+Make.com+%7C+Telegram+%2F+Gemini+API;Open+to+Remote+Freelance+%26+Full-Time+Work" alt="Typing SVG" /><br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=aliraza2022&color=2CD3E1&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](#)
-
 </div>
 
 ---

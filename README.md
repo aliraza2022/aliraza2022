@@ -1,141 +1,57 @@
-<!-- ========================= -->
-<!--      ALIRAZA KADRI       -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Aliraza Kadri Hero"/>
+# ALIRAZA KADRI
 
-# Aliraza Kadri
+### AI Automation Specialist | Building AI-Powered Workflows
 
-### Python Developer • AI Developer • Cybersecurity Learner
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=aliraza2022&label=Profile%20Views&color=00ff88&style=flat" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/aliraza2022)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/kadri-aliraza-09376924b)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:alirazakadri63@gmail.com)
+**n8n • Make.com • LLM APIs • Business Process Automation**
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-```yaml
-Name: Aliraza Kadri
-
-Role:
-  - Python Developer
-  - AI Developer
-  - Cybersecurity Learner
-
-Location:
-  Ahmedabad, Gujarat, India
-
-Currently Learning:
-  - Kali Linux
-  - Linux
-  - Cybersecurity
-
-Goal:
-  Build AI-powered applications and secure software.
-```
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs"/>
-<img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logoColor=00ff88"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,supabase"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aliraza2022&show_icons=true&theme=github_dark&hide_border=true"/>
+### 👋 About Me
 
-<img height="170" src="https://streak-stats.demolab.com?user=aliraza2022&theme=github-dark&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza2022&layout=compact&theme=github_dark&hide_border=true"/>
+I help businesses save time and scale by building **AI-powered automations** —
+from lead capture and follow-ups to full AI agent workflows connecting apps,
+APIs, and LLMs (OpenAI, Claude) into one seamless system.
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+### 🛠️ Tools & Skills
 
-## 🤖 AI Document Intelligence Platform
-
-Python • Flask • Gemini API
-
-AI powered document processing system.
-
----
-
-## 💰 Crypto Tracker
-
-Python • JavaScript
-
-Real-time cryptocurrency tracker.
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🌐 Portfolio Website
+### 🚀 Featured Automation Projects
 
-Coming Soon...
+| Project | Problem Solved | Tools Used |
+|---|---|---|
+| **AI Lead Qualification Bot** | Auto-qualifies WhatsApp/Telegram leads using GPT before human follow-up | n8n, OpenAI API, Telegram API |
+| **CRM Auto-Sync** | Form submissions instantly synced to CRM + Slack notification | n8n, Airtable, Slack API |
+| **AI FAQ Auto-Responder** | Answers customer queries instantly using AI, cuts response time | n8n, Claude API |
+| **Automated Follow-Up Sequences** | Multi-step email/WhatsApp follow-ups without manual work | Make.com, Gmail API |
 
----
-
-# 🌱 Currently Learning
-
-- Kali Linux
-- Linux
-- Cybersecurity
-- AI
+*(Click into each repo for full case study, demo video, and setup)*
 
 ---
 
-# 📫 Contact
+### 📫 Let's Connect
 
-- 📧 alirazakadri63@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliraza2022)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-- 💼 https://www.linkedin.com/in/kadri-aliraza-09376924b
-
-- 💻 https://github.com/aliraza2022
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
+<sub>Open to remote freelance & full-time automation projects 🌍</sub>
 
 </div>

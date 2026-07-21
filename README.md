@@ -1,10 +1,8 @@
 <div align="center">
 
-# ALIRAZA KADRI
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=150&section=header&text=Aliraza%20Kadri&fontSize=45&fontColor=ffffff&fontAlignY=45&desc=AI%20Automation%20Specialist%20%7C%20n8n%20%C2%B7%20Make%20%C2%B7%20AI%20Agents&descAlignY=70&descSize=16" width="100%"/>
 
-### AI Automation Specialist | n8n · Make · AI Agents
-
-Building AI-powered business automations — n8n, Make.com, Telegram & Gemini API
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2CD3E1&center=true&vCenter=true&width=650&height=30&lines=Building+AI-powered+business+automations;n8n+%7C+Make.com+%7C+Telegram+%2F+Gemini+API;Open+to+Remote+Freelance+%26+Full-Time+Work" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aliraza2022&color=2CD3E1&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)

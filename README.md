@@ -93,8 +93,9 @@ Multi-step email/WhatsApp follow-up flows that run without any manual work.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliraza2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" />
-<img height="165" src="https://streak-stats.demolab.com/?user=aliraza2022&theme=tokyonight&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/aliraza2022?label=Followers&style=for-the-badge&color=2CD3E1)
+![Stars](https://img.shields.io/github/stars/aliraza2022?label=Total%20Stars&style=for-the-badge&color=2CD3E1)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/aliraza2022&label=Public%20Repos&query=public_repos&style=for-the-badge&color=2CD3E1)
 
 </div>
 
